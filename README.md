@@ -1,6 +1,6 @@
 
 I am a student who is currently learning programming.
-- 🔭 I’m currently working on a virtual currency!
+- 🔭 I’m currently working on a chrome extension!
 - 🌱 I’m currently learning python!
 
 
