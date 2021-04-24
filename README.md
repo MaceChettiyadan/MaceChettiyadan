@@ -17,4 +17,6 @@
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=macechettiyadan&theme=dark&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api?username=macechettiyadan&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=huggydabuggy&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=macechettiyadan&show_icons=true&theme=merko&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" />
+<p><img src="https://github-profile-trophy.vercel.app/?username=macechettiyadan&theme=onedark&no-bg=true&no-frame=true&column=7" /></p>
+
